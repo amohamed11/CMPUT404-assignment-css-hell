@@ -1,0 +1,56 @@
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: white;
+    margin: 0;
+    background: #0233fa;
+}
+
+h1 {
+    font-size: 3em;
+    background-image: linear-gradient(
+        to right,
+        yellow,
+        yellow,
+        orange,
+        red,
+        blue,
+        blue
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2 {
+    background: #ffda02;
+    max-width: 400px;
+}
+
+img {
+    width: 200px;
+    float: left;
+    border-radius: 50%;
+    margin-right: 1em;
+}
+
+p {
+}
+
+.top-banner {
+    text-align: center;
+}
+
+.content {
+    margin: auto 2em;
+}
+
+.who-blurb {
+    background: #fd67cb;
+    max-width: 600px;
+    border-radius: 20%;
+    padding: 10px;
+}
+
+.about-me {
+    background: #ffda02;
+    float: right;
+}

@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+    font-family: "Times New Roman", Times, serif;
+}
+
+p,
+pre {
+    font-size: 1.4em !important;
+    text-align: left;
+    font-weight: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold !important;
+    text-decoration: underline;
+    margin-bottom: 1.5em !important;
+}
+
+img,
+figcaption {
+    border: solid black 2px;
+    box-shadow: 4px 8px;
+}
